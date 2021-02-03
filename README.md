@@ -17,3 +17,6 @@ this is horizontal line
 - coffee
 - milk
 
+how to open hyper links[apssdc](https://www.apssdc.in)
+[ciet colleage](http://www.chalapathiengg.ac.in/)
+
